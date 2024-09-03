@@ -1,0 +1,110 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "name": "Spider-Man: Across the Spider-Verse",
+      "url": "https://m.media-amazon.com/images/S/pv-target-images/418f791d94eeeea9599373167f26de3334882d9e4b15ec503d597de98af99dbb.jpg",
+      "link": "https://www.youtube.com/embed/shW9i6k8cB0"
+    },
+    {
+      "id": "2",
+      "name": "iron man",
+      "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3421528F5E3679CEA7D89FE51BE6DE6904289364AD148688A2E236A340144BF6/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+      "link": "https://www.youtube.com/embed/8ugaeA-nMTc"
+    },
+    {
+      "id": "3",
+      "name": "Thor",
+      "url": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2019/07/thor-ragnarok2.jpg",
+      "link": "https://www.youtube.com/embed/JOddp-nlNvQ"
+    },
+    {
+      "id": "4",
+      "name": "Captain America",
+      "url": "https://decider.com/wp-content/uploads/2024/04/Captain-America-The-Winter-Soldier-THROWBACK.jpg?quality=75&strip=all&w=1200",
+      "link": "https://www.youtube.com/embed/O_A8HdCDaWM"
+    },
+    {
+      "id": "5",
+      "name": "man of steel",
+      "url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9259673_p_v10_an.jpg",
+      "link": "https://www.youtube.com/embed/T6DJcgm3wNY"
+    },
+    {
+      "id": "6",
+      "name": "batman vs superman",
+      "url": "https://play-lh.googleusercontent.com/MzpRKMDdQ7czRTY_hU4T9SYqWQ0smK_yodHz0r5mruA7_GYW7jQWbqoxgXnDVREQJEoKgQ=w240-h480-rw",
+      "link": "https://www.youtube.com/embed/0WWzgGyAH6Y"
+    }
+  ],
+  "history": [
+    {
+      "name": "vikram",
+      "link": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "timeStamp": "08/29/2024, 10:23:04 AM",
+      "id": 2
+    },
+    {
+      "name": "vikram",
+      "link": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "timeStamp": "08/29/2024, 12:08:57 PM",
+      "id": 3
+    },
+    {
+      "name": "vikram",
+      "link": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "timeStamp": "09/02/2024, 12:48:17 PM",
+      "id": 4
+    },
+    {
+      "name": "vikram",
+      "link": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "timeStamp": "09/03/2024, 11:42:20 AM",
+      "id": 5
+    },
+    {
+      "name": "vikram",
+      "link": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "timeStamp": "09/03/2024, 12:01:16 PM",
+      "id": 6
+    },
+    {
+      "name": "iron man",
+      "link": "https://www.youtube.com/embed/8ugaeA-nMTc",
+      "timeStamp": "09/03/2024, 12:15:04 PM",
+      "id": 7
+    },
+    {
+      "name": "man of steel",
+      "link": "https://www.youtube.com/embed/T6DJcgm3wNY",
+      "timeStamp": "09/03/2024, 12:22:01 PM",
+      "id": 8
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "mcu",
+      "allVideos": [
+        {
+          "id": "1",
+          "name": "Spider-Man: Across the Spider-Verse",
+          "url": "https://m.media-amazon.com/images/S/pv-target-images/418f791d94eeeea9599373167f26de3334882d9e4b15ec503d597de98af99dbb.jpg",
+          "link": "https://www.youtube.com/embed/shW9i6k8cB0"
+        },
+        {
+          "id": "2",
+          "name": "iron man",
+          "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3421528F5E3679CEA7D89FE51BE6DE6904289364AD148688A2E236A340144BF6/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp",
+          "link": "https://www.youtube.com/embed/8ugaeA-nMTc"
+        },
+        {
+          "id": "3",
+          "name": "Thor",
+          "url": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2019/07/thor-ragnarok2.jpg",
+          "link": "https://www.youtube.com/embed/JOddp-nlNvQ"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

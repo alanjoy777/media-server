@@ -1,0 +1,25 @@
+creating json server:
+
+first step: npm init -y  (to crate package.json)
+
+step 2: create a index.js file
+
+step 3: in package.json there will be scripts section , go there and add
+
+"start":"node index.js"
+
+step4: npm i json-server@0.17.4  (for installing json server)
+
+step 5: go to index.js and  add server to a varibale by using require('json-server')
+        after  that   use that variable name to create for your app server eg: mp server= JSONServer.create()
+
+step 6: create a file to store data  , db.json 
+
+step 7: go to index file and  add the db.json file to a router 
+
+        const router= JSONServer.router('db.json')
+
+ step 8: const middleware= JSONServer.defaults()
+
+
+ step 9: const PORT=3000 || process.env.PORT       
